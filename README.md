@@ -3,9 +3,12 @@
 
 I'm a **Full Stack Developer** with a passion for creating innovative solutions in **IoT** and **embedded systems**. From building real-time communication systems to designing APIs and web applications, I work with **React**, **MySQL**, and microcontrollers like **ESP32** to connect the physical world to the digital one.  
 
-* 🏡 I'm based in **Thailand**  
-* 📧 You can reach me at [sareef.masamaeng@gmail.com](mailto:sareef.masamaeng@gmail.com)
-* 🔭 Currently learning: **Advanced React.js** and expanding my knowledge in **IoT development**  
+* 📍 I'm based in **Thailand**  
+* 📫 You can reach me at [sareef.masamaeng@gmail.com](mailto:sareef.masamaeng@gmail.com)  
+* 🎯 Currently learning: **Advanced React.js** and expanding my knowledge in **IoT development**  
+
+<a href="https://www.github.com/PhoorinNickphong" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sareefhub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
