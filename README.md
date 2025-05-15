@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm **Sareef Masamaeng**  
-### Full Stack Developer | IoT & Embedded Systems Enthusiast  
+### Computer Engineering | Full Stack Developer | IoT & Embedded Systems
 
 I'm a **Full Stack Developer** with a passion for creating innovative solutions in **IoT** and **embedded systems**. From building real-time communication systems to designing APIs and web applications, I work with **React**, **MySQL**, and microcontrollers like **ESP32** to connect the physical world to the digital one.  
 
-### 🏡 I'm based in **Thailand**  
-### 📧 You can reach me at [sareef.masamaeng@gmail.com](mailto:sareef.masamaeng@gmail.com)
-### 🔭 Currently learning: **Advanced React.js** and expanding my knowledge in **IoT development**  
+* 🏡 I'm based in **Thailand**  
+* 📧 You can reach me at [sareef.masamaeng@gmail.com](mailto:sareef.masamaeng@gmail.com)
+* 🔭 Currently learning: **Advanced React.js** and expanding my knowledge in **IoT development**  
 
 ---
 
@@ -36,6 +36,9 @@ I'm a **Full Stack Developer** with a passion for creating innovative solutions 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sareef-masamaeng/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sareefhub)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sareef.masamaeng.2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mgaurnkq/)
+
 
 ---
 
