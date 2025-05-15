@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm **Sareef Masamaeng**  
 ### Computer Engineering | Full Stack Developer | IoT & Embedded Systems
 
-I'm a **Full Stack Developer** with a passion for creating innovative solutions in **IoT** and **embedded systems**. From building real-time communication systems to designing APIs and web applications, I work with **React**, **MySQL**, and microcontrollers like **ESP32** to connect the physical world to the digital one.  
+I'm a **Full Stack Developer** with a passion for creating innovative solutions in **IoT** and **embedded systems**. From building real-time communication systems to designing APIs and web applications, I work with **React**, **Strapi**, and microcontrollers like **ESP32** to connect the physical world to the digital one.  
 
 * 📍 I'm based in **Thailand**  
 * 📫 You can reach me at [sareef.masamaeng@gmail.com](mailto:sareef.masamaeng@gmail.com)  
