@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm **Sareef Masamaeng**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=500&color=00FFCC&vCenter=true&width=1100&padding=10&lines=Computer+Engineering+%7C+Full+Stack+Developer+%7C+IoT+%26+Embedded+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFCC&vCenter=true&width=1100&padding=10&lines=Computer+Engineering+%7C+Full+Stack+Developer+%7C+IoT+%26+Embedded+Systems" alt="Typing SVG" />
 </p>
 
 I'm a **Full Stack Developer** with a passion for creating innovative solutions in **IoT** and **embedded systems**. From building real-time communication systems to designing APIs and web applications, I work with **React**, **Strapi**, and microcontrollers like **ESP32** to connect the physical world to the digital one.  
