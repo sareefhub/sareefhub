@@ -45,14 +45,3 @@ src="https://img.shields.io/github/followers/sareefhub?logo=github&style=for-the
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sareef.masamaeng.2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mgaurnkq/)
 
-
----
-
-## 🚀 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sareefhub&show_icons=true&count_private=true&theme=dark" style="width: 40%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sareefhub&layout=compact&theme=dark" style="width: 40%;"/>
-</p>
-
----
